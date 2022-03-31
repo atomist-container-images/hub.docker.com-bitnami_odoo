@@ -274,6 +274,3 @@ FROM bitnami/odoo:14.0.20220210-debian-10-r18
 
 # Tags: 15.0.20220210-debian-10-r17
 FROM bitnami/odoo:15.0.20220210-debian-10-r17
-
-# Tags: 13.0.20220210-debian-10-r17
-FROM bitnami/odoo:13.0.20220210-debian-10-r17
