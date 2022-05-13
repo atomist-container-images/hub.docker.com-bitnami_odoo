@@ -1,24 +1,116 @@
-# Tags: latest, 15.0.20220410-debian-10-r20, 15.0.20220410, 15-debian-10, 15
+# Tags: latest, 15.0.20220510-debian-10-r2, 15.0.20220510, 15-debian-10, 15
 FROM bitnami/odoo:latest
-FROM bitnami/odoo:15.0.20220410-debian-10-r20
-FROM bitnami/odoo:15.0.20220410
+FROM bitnami/odoo:15.0.20220510-debian-10-r2
+FROM bitnami/odoo:15.0.20220510
 FROM bitnami/odoo:15-debian-10
 FROM bitnami/odoo:15
 
-# Tags: 14.0.20220410-debian-10-r22, 14.0.20220410, 14-debian-10, 14
-FROM bitnami/odoo:14.0.20220410-debian-10-r22
-FROM bitnami/odoo:14.0.20220410
+# Tags: 14.0.20220510-debian-10-r3, 14.0.20220510, 14-debian-10, 14
+FROM bitnami/odoo:14.0.20220510-debian-10-r3
+FROM bitnami/odoo:14.0.20220510
 FROM bitnami/odoo:14-debian-10
 FROM bitnami/odoo:14
 
 # Tags: _
 FROM bitnami/odoo:_
 
-# Tags: 13.0.20220410-debian-10-r22, 13.0.20220410, 13-debian-10, 13
-FROM bitnami/odoo:13.0.20220410-debian-10-r22
+# Tags: 14.0.20220510-debian-10-r2
+FROM bitnami/odoo:14.0.20220510-debian-10-r2
+
+# Tags: 13.0.20220410-debian-10-r31, 13.0.20220410, 13-debian-10, 13
+FROM bitnami/odoo:13.0.20220410-debian-10-r31
 FROM bitnami/odoo:13.0.20220410
 FROM bitnami/odoo:13-debian-10
 FROM bitnami/odoo:13
+
+# Tags: 15.0.20220510-debian-10-r1
+FROM bitnami/odoo:15.0.20220510-debian-10-r1
+
+# Tags: 14.0.20220510-debian-10-r1
+FROM bitnami/odoo:14.0.20220510-debian-10-r1
+
+# Tags: 13.0.20220410-debian-10-r30
+FROM bitnami/odoo:13.0.20220410-debian-10-r30
+
+# Tags: 15.0.20220510-debian-10-r0
+FROM bitnami/odoo:15.0.20220510-debian-10-r0
+
+# Tags: 14.0.20220510-debian-10-r0
+FROM bitnami/odoo:14.0.20220510-debian-10-r0
+
+# Tags: 14.0.20220410-debian-10-r29, 14.0.20220410
+FROM bitnami/odoo:14.0.20220410-debian-10-r29
+FROM bitnami/odoo:14.0.20220410
+
+# Tags: 13.0.20220410-debian-10-r29
+FROM bitnami/odoo:13.0.20220410-debian-10-r29
+
+# Tags: 15.0.20220410-debian-10-r27, 15.0.20220410
+FROM bitnami/odoo:15.0.20220410-debian-10-r27
+FROM bitnami/odoo:15.0.20220410
+
+# Tags: 14.0.20220410-debian-10-r28
+FROM bitnami/odoo:14.0.20220410-debian-10-r28
+
+# Tags: 13.0.20220410-debian-10-r28
+FROM bitnami/odoo:13.0.20220410-debian-10-r28
+
+# Tags: 15.0.20220410-debian-10-r26
+FROM bitnami/odoo:15.0.20220410-debian-10-r26
+
+# Tags: 14.0.20220410-debian-10-r27
+FROM bitnami/odoo:14.0.20220410-debian-10-r27
+
+# Tags: 13.0.20220410-debian-10-r27
+FROM bitnami/odoo:13.0.20220410-debian-10-r27
+
+# Tags: 15.0.20220410-debian-10-r25
+FROM bitnami/odoo:15.0.20220410-debian-10-r25
+
+# Tags: 14.0.20220410-debian-10-r26
+FROM bitnami/odoo:14.0.20220410-debian-10-r26
+
+# Tags: 13.0.20220410-debian-10-r26
+FROM bitnami/odoo:13.0.20220410-debian-10-r26
+
+# Tags: 15.0.20220410-debian-10-r24
+FROM bitnami/odoo:15.0.20220410-debian-10-r24
+
+# Tags: 14.0.20220410-debian-10-r25
+FROM bitnami/odoo:14.0.20220410-debian-10-r25
+
+# Tags: 13.0.20220410-debian-10-r25
+FROM bitnami/odoo:13.0.20220410-debian-10-r25
+
+# Tags: 15.0.20220410-debian-10-r23
+FROM bitnami/odoo:15.0.20220410-debian-10-r23
+
+# Tags: 14.0.20220410-debian-10-r24
+FROM bitnami/odoo:14.0.20220410-debian-10-r24
+
+# Tags: 13.0.20220410-debian-10-r24
+FROM bitnami/odoo:13.0.20220410-debian-10-r24
+
+# Tags: 15.0.20220410-debian-10-r22
+FROM bitnami/odoo:15.0.20220410-debian-10-r22
+
+# Tags: 14.0.20220410-debian-10-r23
+FROM bitnami/odoo:14.0.20220410-debian-10-r23
+
+# Tags: 13.0.20220410-debian-10-r23
+FROM bitnami/odoo:13.0.20220410-debian-10-r23
+
+# Tags: 15.0.20220410-debian-10-r21
+FROM bitnami/odoo:15.0.20220410-debian-10-r21
+
+# Tags: 14.0.20220410-debian-10-r22
+FROM bitnami/odoo:14.0.20220410-debian-10-r22
+
+# Tags: 13.0.20220410-debian-10-r22
+FROM bitnami/odoo:13.0.20220410-debian-10-r22
+
+# Tags: 15.0.20220410-debian-10-r20
+FROM bitnami/odoo:15.0.20220410-debian-10-r20
 
 # Tags: 14.0.20220410-debian-10-r21
 FROM bitnami/odoo:14.0.20220410-debian-10-r21
@@ -178,96 +270,3 @@ FROM bitnami/odoo:14.0.20220410-debian-10-r4
 
 # Tags: 15.0.20220410-debian-10-r3
 FROM bitnami/odoo:15.0.20220410-debian-10-r3
-
-# Tags: 13.0.20220410-debian-10-r3
-FROM bitnami/odoo:13.0.20220410-debian-10-r3
-
-# Tags: 14.0.20220410-debian-10-r3
-FROM bitnami/odoo:14.0.20220410-debian-10-r3
-
-# Tags: 15.0.20220410-debian-10-r2
-FROM bitnami/odoo:15.0.20220410-debian-10-r2
-
-# Tags: 13.0.20220410-debian-10-r2
-FROM bitnami/odoo:13.0.20220410-debian-10-r2
-
-# Tags: 14.0.20220410-debian-10-r2
-FROM bitnami/odoo:14.0.20220410-debian-10-r2
-
-# Tags: 15.0.20220410-debian-10-r1
-FROM bitnami/odoo:15.0.20220410-debian-10-r1
-
-# Tags: 13.0.20220410-debian-10-r1
-FROM bitnami/odoo:13.0.20220410-debian-10-r1
-
-# Tags: 14.0.20220410-debian-10-r1
-FROM bitnami/odoo:14.0.20220410-debian-10-r1
-
-# Tags: 15.0.20220410-debian-10-r0
-FROM bitnami/odoo:15.0.20220410-debian-10-r0
-
-# Tags: 15.0.20220310-debian-10-r27, 15.0.20220310
-FROM bitnami/odoo:15.0.20220310-debian-10-r27
-FROM bitnami/odoo:15.0.20220310
-
-# Tags: 13.0.20220410-debian-10-r0
-FROM bitnami/odoo:13.0.20220410-debian-10-r0
-
-# Tags: 14.0.20220410-debian-10-r0
-FROM bitnami/odoo:14.0.20220410-debian-10-r0
-
-# Tags: 14.0.20220310-debian-10-r29, 14.0.20220310
-FROM bitnami/odoo:14.0.20220310-debian-10-r29
-FROM bitnami/odoo:14.0.20220310
-
-# Tags: 15.0.20220310-debian-10-r26
-FROM bitnami/odoo:15.0.20220310-debian-10-r26
-
-# Tags: 13.0.20220310-debian-10-r29, 13.0.20220310
-FROM bitnami/odoo:13.0.20220310-debian-10-r29
-FROM bitnami/odoo:13.0.20220310
-
-# Tags: 14.0.20220310-debian-10-r28
-FROM bitnami/odoo:14.0.20220310-debian-10-r28
-
-# Tags: 15.0.20220310-debian-10-r25
-FROM bitnami/odoo:15.0.20220310-debian-10-r25
-
-# Tags: 13.0.20220310-debian-10-r28
-FROM bitnami/odoo:13.0.20220310-debian-10-r28
-
-# Tags: 14.0.20220310-debian-10-r27
-FROM bitnami/odoo:14.0.20220310-debian-10-r27
-
-# Tags: 15.0.20220310-debian-10-r24
-FROM bitnami/odoo:15.0.20220310-debian-10-r24
-
-# Tags: 13.0.20220310-debian-10-r27
-FROM bitnami/odoo:13.0.20220310-debian-10-r27
-
-# Tags: 14.0.20220310-debian-10-r26
-FROM bitnami/odoo:14.0.20220310-debian-10-r26
-
-# Tags: 15.0.20220310-debian-10-r23
-FROM bitnami/odoo:15.0.20220310-debian-10-r23
-
-# Tags: 13.0.20220310-debian-10-r26
-FROM bitnami/odoo:13.0.20220310-debian-10-r26
-
-# Tags: 14.0.20220310-debian-10-r25
-FROM bitnami/odoo:14.0.20220310-debian-10-r25
-
-# Tags: 15.0.20220310-debian-10-r22
-FROM bitnami/odoo:15.0.20220310-debian-10-r22
-
-# Tags: 13.0.20220310-debian-10-r25
-FROM bitnami/odoo:13.0.20220310-debian-10-r25
-
-# Tags: 14.0.20220310-debian-10-r24
-FROM bitnami/odoo:14.0.20220310-debian-10-r24
-
-# Tags: 15.0.20220310-debian-10-r21
-FROM bitnami/odoo:15.0.20220310-debian-10-r21
-
-# Tags: 13.0.20220310-debian-10-r24
-FROM bitnami/odoo:13.0.20220310-debian-10-r24
